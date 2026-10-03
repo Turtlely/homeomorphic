@@ -1,0 +1,2 @@
+PASS: uart_tb
+tb/uart_tb.v:90: $finish called at 259655 (1s)

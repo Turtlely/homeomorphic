@@ -1,0 +1,2 @@
+PASS: fhe_decrypt_byte_tb
+tb/fhe_decrypt_byte_tb.v:82: $finish called at 1258 (1s)

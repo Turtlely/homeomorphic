@@ -1,0 +1,16 @@
+VCD info: dumpfile build/fhe_chain_tb.vcd opened for output.
+'h' -> c5 = 2472316157 -> c5_new = 2981310710 -> 'H'
+'e' -> c5 = 992463277 -> c5_new = 1347063435 -> 'E'
+'l' -> c5 = 1731709574 -> c5_new = 951094110 -> 'L'
+'l' -> c5 = 33047457 -> c5_new = 3096256915 -> 'L'
+'o' -> c5 = 1030391789 -> c5_new = 3204440867 -> 'O'
+' ' -> c5 = 2044339886 -> c5_new = 978500230 -> ' '
+'w' -> c5 = 1258083024 -> c5_new = 3075652132 -> 'W'
+'o' -> c5 = 94181215 -> c5_new = 2290755420 -> 'O'
+'r' -> c5 = 2128838904 -> c5_new = 2902813216 -> 'R'
+'l' -> c5 = 2097191763 -> c5_new = 2036858198 -> 'L'
+'d' -> c5 = 1173944107 -> c5_new = 240494505 -> 'D'
+sent:     hello world
+received: HELLO WORLD
+PASS: fhe_chain_tb
+tb/fhe_chain_tb.v:72: $finish called at 110 (1s)

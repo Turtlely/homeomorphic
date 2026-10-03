@@ -1,0 +1,2 @@
+PASS: fhe_encrypt_byte_tb
+tb/fhe_encrypt_byte_tb.v:118: $finish called at 1005 (1s)

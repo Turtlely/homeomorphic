@@ -1,0 +1,3 @@
+cycles for one operation: 98
+PASS: fhe_capitalize_seq_tb
+tb/fhe_capitalize_seq_tb.v:89: $finish called at 505025 (1s)

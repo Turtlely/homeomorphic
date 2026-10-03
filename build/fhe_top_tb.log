@@ -1,0 +1,5 @@
+encrypt 'h': bus = 0b8bfcbc0f833b0040308790140471b84128ffb57d0b98825cb7cef6603eb8b9
+capitalize 'h': bus = 0b8bfcbc0f833b00a7a6973e140471b84128ffb57d0b98825cb7cef6603eb8b9
+sent: hello world   received: HELLO WORLD
+PASS: fhe_top_tb
+tb/fhe_top_tb.v:323: $finish called at 7666095 (1s)

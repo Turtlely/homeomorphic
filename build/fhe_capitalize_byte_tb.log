@@ -1,0 +1,2 @@
+PASS: fhe_capitalize_byte_tb
+tb/fhe_capitalize_byte_tb.v:135: $finish called at 1309 (1s)
